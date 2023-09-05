@@ -1,0 +1,48 @@
+h1 {
+    color: aquamarine;
+    background-color: #FF0000;
+}
+
+h2 {
+    color: #D56C10;
+    background-color: #FF7F00;
+}
+
+h3 {
+    color: #D56;
+    background-color: #FFFF00;
+}
+
+h4 {
+    color: #DD557755;
+    background-color: #00FF00;
+}
+
+h5 {
+    color: #D235;
+    background-color: #0000FF;
+}
+
+h6 {
+    color: rgb(134, 5, 15);
+    background-color: #4B0082;
+}
+
+p {
+    color: rgba(24, 67, 155, 0.4);
+    background-color: #9400D3;
+}
+
+#One {
+    color: hotpink;
+}
+
+#Three {
+    color: peachpuff;
+}
+
+.border {
+    border-width: 5px;
+    border-style: solid;
+    border-color: green;
+}
